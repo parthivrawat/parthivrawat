@@ -180,42 +180,6 @@ Observe
 Iterate
 ```
 
-### Principles I value
-
-* **Composition over unnecessary complexity**
-* **Explicit interfaces**
-* **Strong typing where it improves correctness**
-* **Reusable abstractions**
-* **Secure defaults**
-* **Automation over repetition**
-* **Observability over assumptions**
-* **Fundamentals before frameworks**
-* **Simple systems over clever systems**
-
----
-
-# 🔬 Current Areas of Exploration
-
-### Artificial Intelligence
-
-`AI Agents` · `MCP` · `A2A` · `LLM Systems` · `Agent Skills`
-
-### Systems
-
-`Distributed Systems` · `Cloud Native` · `Backend Architecture` · `Developer Infrastructure`
-
-### Computer Science
-
-`Algorithms` · `Data Structures` · `Mathematics` · `Type Systems`
-
-### Security
-
-`Cryptography` · `Authentication` · `Authorization` · `Threat Modeling`
-
-### Human Capability
-
-`Learning Systems` · `Knowledge Architecture` · `Automation` · `Developer Productivity`
-
 ---
 
 # 🛠️ Technology
@@ -280,16 +244,6 @@ But a growing ecosystem of:
 **primitives → libraries → frameworks → systems → intelligent applications**
 
 where each project becomes a building block for the next.
-
----
-
-# 🌐 Connect
-
-**Website** → [parthivrawat.com](https://parthivrawat.com)
-
-**LinkedIn** → [linkedin.com/in/parthiv-rawat](https://linkedin.com/in/parthiv-rawat)
-
-**LeetCode** → [leetcode.com/u/parthiv05](https://leetcode.com/u/parthiv05)
 
 ---
 
