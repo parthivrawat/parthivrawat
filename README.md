@@ -1,250 +1,595 @@
-# 👋 Hi, I'm Parthiv Rawat
+<div align="center">
 
-### Software Engineer · Systems Builder · AI Infrastructure
+# 👋 **Hi, I'm Parthiv Rawat**
 
-I build **reusable software primitives and intelligent systems** — from algorithms and developer infrastructure to security, cloud-native systems, and AI agents.
+### Software Engineer · Systems Builder · Computing Explorer
 
-My goal isn't just to build applications.
+**Building software across foundations, infrastructure, security, AI, and applications.**
 
-It's to understand the underlying problem, design the right abstraction, and turn the solution into something **reusable, composable, and maintainable**.
+<br/>
+
+<a href="https://github.com/parthivrawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://parthivrawat.com">
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/parthiv-rawat">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/parthiv05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,14,16,18,20&section=header&text=Explore.%20Build.%20Compose.%20Compound.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
 
 ---
 
-## 🧭 What I'm Building
+# 🧭 What I Work On
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧠 Computing Foundations
+<td align="center" width="20%">
 
-Algorithms, data structures, mathematical computing, type systems, and reusable cross-language implementations.
+### 🧠
 
-</td>
+## Foundations
 
-<td width="50%">
-
-### ⚙️ Developer Infrastructure
-
-Validation, configuration, APIs, libraries, frameworks, tooling, and developer experience.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🔐 Security Infrastructure
-
-Cryptography, authentication, authorization, threat modeling, and secure-by-default systems.
+Algorithms
+Data Structures
+Mathematics
+Scientific Computing
 
 </td>
 
-<td>
+<td align="center" width="20%">
 
-### 🤖 AI Infrastructure
+### ⚙️
 
-Agent skills, MCP, agent-to-agent communication, LLM systems, and intelligent developer tooling.
+## Systems
+
+Backend
+APIs
+Cloud
+Distributed Systems
 
 </td>
+
+<td align="center" width="20%">
+
+### 🔐
+
+## Security
+
+Cryptography
+Identity
+Authorization
+Threat Modeling
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+
+## AI
+
+Agents
+MCP
+A2A
+LLM Systems
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌍
+
+## Applications
+
+Web
+Education
+3D
+Developer Tools
+
+</td>
+
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+> I enjoy moving between **fundamental concepts and practical systems** — understanding the underlying problem, designing useful abstractions, and turning them into software that can be reused and composed.
+
 ---
 
-# 🏗️ Engineering Portfolio
+# 🏗️ Engineering Landscape
 
-## 01 · Foundations
+<div align="center">
+
+```text
+                         COMPUTING
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+     FOUNDATIONS          SYSTEMS              AI
+          │                  │                  │
+    Algorithms           Backend             Agents
+    Data Structures      Cloud               MCP
+    Mathematics          APIs                A2A
+    Scientific          Distributed          LLMs
+    Computing             Systems
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                             ▼
+                         SECURITY
+                             │
+                  Crypto · Identity · Trust
+                             │
+                             ▼
+                       APPLICATIONS
+                             │
+          ┌──────────────────┼──────────────────┐
+          ▼                  ▼                  ▼
+       Education          Developer            3D
+       Platforms            Tools          Visualization
+                             │
+                             ▼
+                     REUSABLE SOFTWARE
+```
+
+</div>
+
+---
+
+# ⭐ Featured Engineering Work
+
+## 🧠 Computing Foundations
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### [`algorithms-lib`](https://github.com/parthivrawat/algorithms-lib)
 
-A polyglot, zero-dependency collection of common algorithms implemented across **Python, TypeScript, Go, and Rust**.
+A polyglot, zero-dependency collection of common algorithms implemented across:
 
-`Algorithms` `Graphs` `Searching` `Sorting` `Dynamic Programming`
+**Python · TypeScript · Go · Rust**
+
+`Sorting` `Searching` `Graphs` `Dynamic Programming`
+
+</td>
+
+<td width="50%">
 
 ### [`data-structures-lib`](https://github.com/parthivrawat/data-structures-lib)
 
-Fundamental data structures implemented across multiple languages with an emphasis on consistency and reusable abstractions.
+Fundamental data structures designed with cross-language consistency and reusable abstractions.
+
+`Stacks` `Queues` `Heaps` `Collections`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### [`unit-aware-arithmetic`](https://github.com/parthivrawat/unit-aware-arithmetic)
 
-Type-safe dimensional arithmetic that tracks units at runtime and prevents invalid operations across Python, TypeScript, Go, and Rust.
+Type-safe dimensional arithmetic for working with physical quantities and units.
+
+`Physics` `Units` `Dimensional Analysis` `Measurement`
+
+</td>
+
+<td>
+
+### 🔬 Computing Philosophy
+
+Take concepts that normally live in textbooks and turn them into **usable, reusable software primitives**.
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 02 · Developer Infrastructure
+# ⚙️ Developer & Systems Infrastructure
 
 ### [`universal-validator`](https://github.com/parthivrawat/universal-validator)
 
-A cross-language data validation system for **APIs, databases, forms, and structured data**.
+Cross-language data validation for APIs, databases, forms, and structured data.
+
+`Python` · `TypeScript` · `Go` · `Rust`
 
 ### [`typed-env-vars`](https://github.com/parthivrawat/typed-env-vars)
 
-Type-safe environment configuration with automatic conversion and validation.
+Type-safe configuration with automatic conversion and validation.
 
-These projects explore a recurring idea:
+### [`url-shortener`](https://github.com/parthivrawat/url-shortener)
 
-> **Turn common engineering problems into reusable primitives.**
+Go-based backend engineering project exploring service design, APIs and persistence.
 
----
+### [`cloud-native-file-operations-platform`](https://github.com/parthivrawat/cloud-native-file-operations-platform)
 
-## 03 · Security
+Exploration of cloud-native application and distributed file-operation architecture.
 
-### [`crypto-toolkit`](https://github.com/parthivrawat/crypto-toolkit)
+### [`athena`](https://github.com/parthivrawat/athena)
 
-A high-level, misuse-resistant cryptography toolkit covering hashing, encryption, password derivation, and signatures.
-
-### [`auth-framework`](https://github.com/parthivrawat/auth-framework)
-
-A unified identity, session, token, authentication, authorization, RBAC, and ABAC framework.
-
-### [`threat-modeling`](https://github.com/parthivrawat/threat-modeling)
-
-Threat Modeling as Code using STRIDE to make security analysis version-controlled, reproducible, and actionable.
+A Go-based systems experiment.
 
 ---
 
-## 04 · AI & Agent Infrastructure
+# 🔐 Security Engineering
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🔑 Cryptography
+
+[`crypto-toolkit`](https://github.com/parthivrawat/crypto-toolkit)
+
+Hashing
+Encryption
+Password Derivation
+Signatures
+
+</td>
+
+<td align="center" width="33%">
+
+### 🪪 Identity
+
+[`auth-framework`](https://github.com/parthivrawat/auth-framework)
+
+Authentication
+Authorization
+Sessions
+JWT
+RBAC
+ABAC
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛡 Threat Modeling
+
+[`threat-modeling`](https://github.com/parthivrawat/threat-modeling)
+
+Threat Modeling as Code
+STRIDE
+Risk Analysis
+Mitigations
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🤖 AI & Intelligent Systems
+
+<div align="center">
+
+### Exploring the infrastructure behind intelligent software
+
+</div>
+
+```text
+                         HUMAN
+                           │
+                           ▼
+                     AI APPLICATION
+                           │
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+          AGENTS          TOOLS          DATA
+            │              │              │
+            └──────────────┼──────────────┘
+                           ▼
+                       MCP / A2A
+                           │
+                           ▼
+                  DISTRIBUTED AI SYSTEMS
+```
 
 ### [`skills`](https://github.com/parthivrawat/skills)
 
-A portable, versioned, platform-agnostic library of reusable **AI agent skills** with schemas, validation, and platform adapters.
+Portable, versioned and platform-agnostic reusable AI agent skills.
+
+`Schemas` `Validation` `Adapters` `Agent Tooling`
 
 ### [`a2a-and-mcp-prototype`](https://github.com/parthivrawat/a2a-and-mcp-prototype)
 
-Experiments around **agent-to-agent communication and Model Context Protocol architectures**.
+Experiments with:
 
-This is one of the areas I'm most interested in exploring further:
-
-```text
-         Human
-           │
-           ▼
-      AI Systems
-           │
-     ┌─────┴─────┐
-     ▼           ▼
-   Agents       Tools
-     │           │
-     └─────┬─────┘
-           ▼
-        MCP / A2A
-           │
-           ▼
-   Distributed Intelligence
-```
+`Agent-to-Agent Communication` · `MCP` · `Tool Calling` · `Distributed Agents`
 
 ---
 
 # 🌍 Applications & Experiments
 
-### [`lexicore`](https://github.com/parthivrawat/lexicore)
+Not everything needs to become infrastructure.
 
-An English word-roots and vocabulary learning platform.
+Some projects are simply laboratories for exploring ideas.
 
-### [`morse-master`](https://github.com/parthivrawat/morse-master)
+| Project                                                                                                    | Domain                 | Technology |
+| :--------------------------------------------------------------------------------------------------------- | :--------------------- | :--------- |
+| [`lexicore`](https://github.com/parthivrawat/lexicore)                                                     | 📚 Language Learning   | TypeScript |
+| [`morse-master`](https://github.com/parthivrawat/morse-master)                                             | 📡 Education           | TypeScript |
+| [`typing-master-for-coding`](https://github.com/parthivrawat/typing-master-for-coding)                     | ⌨️ Developer Learning  | TypeScript |
+| [`cosmic-explorer`](https://github.com/parthivrawat/cosmic-explorer)                                       | 🌌 Visualization       | TypeScript |
+| [`cad-and-3d-viewer`](https://github.com/parthivrawat/cad-and-3d-viewer)                                   | 🧊 3D / CAD            | TypeScript |
+| [`soijournal`](https://github.com/parthivrawat/soijournal)                                                 | 📰 Publishing          | TypeScript |
+| [`rss-feed-frontend`](https://github.com/parthivrawat/rss-feed-frontend)                                   | 📰 Information Systems | JavaScript |
+| [`intelligent-random-quote-generator`](https://github.com/parthivrawat/intelligent-random-quote-generator) | ✨ Experiment           | JavaScript |
 
-An interactive platform for learning and practicing Morse code through progressive lessons and audio exercises.
-
-### [`cloud-native-file-operations-platform`](https://github.com/parthivrawat/cloud-native-file-operations-platform)
-
-Exploring cloud-native architecture around file operations and distributed application design.
-
-### [`url-shortener`](https://github.com/parthivrawat/url-shortener)
-
-A Go-based URL shortening service and one of my earlier backend/system-building projects.
-
----
-
-# 🧩 How I Think About Engineering
-
-I like solving problems at the **abstraction level**.
-
-```text
-Problem
-   ↓
-Understand the fundamentals
-   ↓
-Identify recurring patterns
-   ↓
-Design the abstraction
-   ↓
-Build a reusable primitive
-   ↓
-Compose primitives into systems
-   ↓
-Automate
-   ↓
-Observe
-   ↓
-Iterate
-```
+</div>
 
 ---
 
-# 🛠️ Technology
+# 🌐 Full Technology Spectrum
 
-### Languages
+<div align="center">
 
-`Go` `Python` `TypeScript` `JavaScript` `Rust`
+### Programming Languages
 
-### Backend & Systems
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,rust,cpp,powershell,html" />
 
-`REST` `GraphQL` `gRPC` `Redis` `Databases` `Distributed Systems`
-
-### AI
-
-`LLMs` `AI Agents` `MCP` `RAG` `LLMOps`
-
-### Cloud & Infrastructure
-
-`Google Cloud` `AWS` `Docker` `CI/CD` `Observability`
+<br/><br/>
 
 ### Frontend
 
-`React` `Vite` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<br/><br/>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,redis,postgres,mongodb" />
+
+<br/><br/>
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions" />
+
+<br/><br/>
+
+### AI / Developer Infrastructure
+
+`LLMs` · `AI Agents` · `MCP` · `A2A` · `RAG` · `LLMOps`
+
+<br/>
+
+`REST` · `GraphQL` · `gRPC` · `Distributed Systems` · `Observability`
+
+</div>
 
 ---
 
-# 📊 Engineering Focus
+# 🧩 Languages Beyond the Stack
+
+<div align="center">
+
+| Language / Environment | Where it appears                         |
+| :--------------------- | :--------------------------------------- |
+| 🐹 **Go**              | Backend · Systems · AI infrastructure    |
+| 🐍 **Python**          | Algorithms · Scientific computing · AI   |
+| 🦀 **Rust**            | Systems · Libraries · Security           |
+| 🔷 **TypeScript**      | Libraries · Web applications · Platforms |
+| 🟨 **JavaScript**      | Web applications · Experiments           |
+| ⚡ **C++**              | Systems / computational exploration      |
+| 🪄 **PowerShell**      | Automation · Agent tooling               |
+| 🌐 **HTML / CSS**      | Web development                          |
+| 📓 **Jupyter**         | Computational / exploratory work         |
+
+</div>
+
+Your repository portfolio currently spans **Rust, Go, Python, PowerShell, HTML, TypeScript, JavaScript, C++, and Jupyter Notebook**, so I would explicitly show that breadth rather than presenting you as a four-language engineer.
+
+---
+
+# 📦 Open Source & Reusable Software
+
+<div align="center">
 
 ```text
-                    SOFTWARE
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-   FOUNDATIONS      SYSTEMS          AI
-        │              │              │
- Algorithms       Infrastructure    Agents
- Data Structures  Distributed       MCP
- Mathematics      Cloud Native      LLMs
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                    SECURITY
-                       │
-              Crypto · Auth · Trust
-                       │
-                       ▼
-               REUSABLE SYSTEMS
+                         IDEA
+                           │
+                           ▼
+                      FUNDAMENTALS
+                           │
+                           ▼
+                       PRIMITIVE
+                           │
+                           ▼
+                        LIBRARY
+                           │
+                           ▼
+                        PACKAGE
+                           │
+                           ▼
+                         SYSTEM
+                           │
+                           ▼
+                         REUSE
+                           │
+                           ▼
+                       COMPOUNDING
+```
+
+</div>
+
+The recurring goal behind many of my newer projects is to turn recurring engineering problems into **reusable, composable software**.
+
+Examples include:
+
+`Algorithms` · `Data Structures` · `Validation` · `Configuration`
+
+`Cryptography` · `Authentication` · `Threat Modeling`
+
+`AI Skills` · `Agent Infrastructure`
+
+---
+
+# 🔭 Currently Exploring
+
+<div align="center">
+
+### 🧠 Computing Foundations
+
+Algorithms · Data Structures · Mathematics · Scientific Computing
+
+### ⚙️ Systems Engineering
+
+Go · Cloud Native · Distributed Systems · APIs
+
+### 🔐 Security
+
+Cryptography · Identity · Authorization · Security Automation
+
+### 🤖 AI Infrastructure
+
+Agents · MCP · A2A · LLM Systems · Agent Skills
+
+### 📦 Software Ecosystems
+
+Cross-language libraries · Package design · Developer tooling
+
+</div>
+
+---
+
+# 🧪 A Portfolio With Different Layers
+
+```text
+                         ┌──────────────────────┐
+                         │     FUNDAMENTALS     │
+                         │ Algorithms · Math    │
+                         │ Data Structures      │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │      PRIMITIVES      │
+                         │ Validation · Crypto  │
+                         │ Config · Auth        │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │     INFRASTRUCTURE   │
+                         │ APIs · Cloud · Tools │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │       SYSTEMS        │
+                         │ Distributed · AI     │
+                         │ Secure · Composable  │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │     APPLICATIONS     │
+                         │ Education · Web · 3D │
+                         │ Developer Experience │
+                         └──────────────────────┘
 ```
 
 ---
 
-# 🚧 What I'm Working Toward
+# 📊 GitHub Activity
 
-I want to build software that **compounds**.
+<div align="center">
 
-Not just another application.
+<img src="https://github-readme-stats.vercel.app/api?username=parthivrawat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 
-Not just another library.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthivrawat&layout=compact&hide_border=true&langs_count=10" height="170"/>
 
-But a growing ecosystem of:
+<br/><br/>
 
-**primitives → libraries → frameworks → systems → intelligent applications**
+<img src="https://streak-stats.demolab.com?user=parthivrawat&hide_border=true" width="70%"/>
 
-where each project becomes a building block for the next.
+</div>
 
 ---
 
-### ⚡ Build the primitive. Compose the system. Compound the capability.
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/parthivrawat/parthivrawat/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+---
+
+# 🌌 Long-Term Direction
+
+<div align="center">
+
+### Build software that compounds.
+
+<br/>
+
+**Understand → Abstract → Build → Reuse → Compose → Automate → Compound**
+
+<br/>
+
+```text
+     PRIMITIVES
+          ↓
+      LIBRARIES
+          ↓
+     FRAMEWORKS
+          ↓
+       SYSTEMS
+          ↓
+ INTELLIGENT SOFTWARE
+          ↓
+     COMPOSABLE
+     CAPABILITY
+```
+
+<br/>
+
+### ⚡ Build the primitive.
+
+### Compose the system.
+
+### Compound the capability.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16,18,20&section=footer" width="100%"/>
+
+</div>
