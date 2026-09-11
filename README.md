@@ -112,47 +112,6 @@ Developer Tools
 
 ---
 
-# 🏗️ Engineering Landscape
-
-<div align="center">
-
-```text
-                         COMPUTING
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-          ▼                  ▼                  ▼
-     FOUNDATIONS          SYSTEMS              AI
-          │                  │                  │
-    Algorithms           Backend             Agents
-    Data Structures      Cloud               MCP
-    Mathematics          APIs                A2A
-    Scientific          Distributed          LLMs
-    Computing             Systems
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             │
-                             ▼
-                         SECURITY
-                             │
-                  Crypto · Identity · Trust
-                             │
-                             ▼
-                       APPLICATIONS
-                             │
-          ┌──────────────────┼──────────────────┐
-          ▼                  ▼                  ▼
-       Education          Developer            3D
-       Platforms            Tools          Visualization
-                             │
-                             ▼
-                     REUSABLE SOFTWARE
-```
-
-</div>
-
----
-
 # ⭐ Featured Engineering Work
 
 ## 🧠 Computing Foundations
@@ -531,23 +490,7 @@ Cross-language libraries · Package design · Developer tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthivrawat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthivrawat&layout=compact&hide_border=true&langs_count=10" height="170"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=parthivrawat&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/parthivrawat/parthivrawat/output/github-contribution-grid-snake.svg" width="90%"/>
 
 </div>
 
